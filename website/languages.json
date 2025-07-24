@@ -1,0 +1,1268 @@
+{
+  "en": {
+    "title": "Klussie - Your AI Handyman Assistant",
+    "subtitle": "Get instant help and advice for all your home repair and maintenance needs",
+    "homepage": {
+      "hero": {
+        "title": "Find a Reliable Handyman Near You Quickly",
+        "subtitle": "Connect with trusted professionals in your area for all your home repair and maintenance needs",
+        "cta": "Find My Handyman"
+      },
+      "howItWorks": {
+        "title": "How It Works",
+        "subtitle": "Get connected with the right handyman in just a few simple steps",
+        "steps": [
+          {
+            "title": "Describe Your Project",
+            "description": "Tell us about your repair or maintenance needs through our smart chat interface"
+          },
+          {
+            "title": "Get Matched",
+            "description": "Our AI finds the best qualified handymen in your area based on your specific requirements"
+          },
+          {
+            "title": "Connect & Schedule",
+            "description": "Review profiles, read reviews, and connect directly with your chosen professional"
+          }
+        ]
+      },
+      "whyUs": {
+        "title": "Why Choose Klussie",
+        "subtitle": "We make finding the right handyman simple, fast, and reliable",
+        "features": [
+          {
+            "title": "AI-Powered Matching",
+            "description": "Our smart algorithm matches you with the most suitable professionals based on your specific needs"
+          },
+          {
+            "title": "Verified Professionals",
+            "description": "All handymen are thoroughly vetted, licensed, and insured for your peace of mind"
+          },
+          {
+            "title": "Instant Quotes",
+            "description": "Get competitive quotes quickly without the hassle of multiple phone calls"
+          },
+          {
+            "title": "24/7 Support",
+            "description": "Our customer support team is available around the clock to help you"
+          }
+        ]
+      },
+      "footer": {
+        "company": "Klussie",
+        "description": "Connecting homeowners with trusted professionals since 2024",
+        "links": {
+          "about": "About Us",
+          "contact": "Contact",
+          "privacy": "Privacy Policy",
+          "terms": "Terms of Service"
+        },
+        "copyright": "© 2024 Klussie. All rights reserved."
+      }
+    },
+    "about": {
+      "title": "About Klussie",
+      "subtitle": "We're revolutionizing how homeowners connect with trusted handymen through the power of AI",
+      "backToHome": "Back to Home",
+      "mission": {
+        "title": "Our Mission",
+        "description": "At Klussie, we believe that finding reliable help for your home should be simple, fast, and stress-free. Our AI-powered platform connects homeowners with verified professionals in their area, making home maintenance and repairs accessible to everyone.",
+        "stats": {
+          "title": "Our Impact",
+          "handymen": "Verified Handymen",
+          "jobsCompleted": "Jobs Completed",
+          "satisfaction": "Customer Satisfaction"
+        }
+      },
+      "values": {
+        "title": "Our Values",
+        "subtitle": "The principles that guide everything we do",
+        "items": [
+          {
+            "title": "Quality First",
+            "description": "We only work with verified, skilled professionals who meet our high standards for quality and reliability."
+          },
+          {
+            "title": "Customer Focus",
+            "description": "Every decision we make is centered around providing the best possible experience for our customers."
+          },
+          {
+            "title": "Innovation",
+            "description": "We continuously improve our AI matching technology to provide faster, more accurate connections."
+          }
+        ]
+      },
+      "story": {
+        "title": "Our Story",
+        "paragraphs": [
+          "Klussie was founded in 2024 with a simple observation: finding reliable help for home repairs was unnecessarily complicated and time-consuming. Traditional methods involved countless phone calls, unreliable reviews, and uncertainty about pricing and availability.",
+          "Our founders, experienced in both technology and home services, saw an opportunity to leverage artificial intelligence to solve this problem. By combining smart matching algorithms with a network of verified professionals, we created a platform that makes finding the right handyman as easy as having a conversation.",
+          "Today, Klussie serves thousands of homeowners across the Netherlands, connecting them with skilled professionals who can handle everything from simple repairs to complex renovations. Our AI continues to learn and improve, ensuring better matches and faster service with every interaction."
+        ]
+      },
+      "team": {
+        "title": "Meet Our Team",
+        "subtitle": "The passionate people behind Klussie",
+        "members": [
+          {
+            "name": "Sarah Johnson",
+            "role": "CEO & Co-Founder",
+            "description": "Former home services industry executive with 15 years of experience connecting customers with professionals."
+          },
+          {
+            "name": "Michael Chen",
+            "role": "CTO & Co-Founder",
+            "description": "AI and machine learning expert who previously built matching systems for major tech companies."
+          },
+          {
+            "name": "Emma Rodriguez",
+            "role": "Head of Operations",
+            "description": "Operations specialist focused on ensuring quality service delivery and customer satisfaction."
+          }
+        ]
+      },
+      "cta": {
+        "title": "Ready to Experience the Future of Home Services?",
+        "description": "Join thousands of satisfied customers who have found their perfect handyman through Klussie.",
+        "findHandyman": "Find a Handyman",
+        "becomeHandyman": "Become a Handyman"
+      }
+    },
+    "contact": {
+      "title": "Contact Us",
+      "subtitle": "We're here to help! Get in touch with our team.",
+      "backToHome": "Back to Home",
+      "info": {
+        "title": "Get in Touch",
+        "email": {
+          "title": "Email Support",
+          "description": "Send us an email and we'll respond within 24 hours"
+        },
+        "phone": {
+          "title": "Phone Support",
+          "description": "Call us during business hours for immediate assistance"
+        },
+        "whatsapp": {
+          "title": "WhatsApp",
+          "description": "Message us on WhatsApp for quick support"
+        },
+        "address": {
+          "title": "Visit Our Office"
+        },
+        "hours": {
+          "title": "Business Hours",
+          "weekdays": "Monday - Friday: 9:00 AM - 6:00 PM",
+          "weekend": "Saturday - Sunday: 10:00 AM - 4:00 PM"
+        }
+      },
+      "form": {
+        "title": "Send us a Message",
+        "subtitle": "Fill out the form below and we'll get back to you as soon as possible.",
+        "fields": {
+          "name": "Full Name",
+          "email": "Email Address",
+          "phone": "Phone Number",
+          "subject": "Subject",
+          "message": "Message"
+        },
+        "placeholders": {
+          "name": "Enter your full name",
+          "email": "your.email@example.com",
+          "phone": "+31 6 12345678",
+          "subject": "Select a subject",
+          "message": "Tell us how we can help you..."
+        },
+        "subjects": [
+          "General Inquiry",
+          "Technical Support",
+          "Billing Question",
+          "Handyman Application",
+          "Partnership Opportunity",
+          "Feedback or Suggestion",
+          "Other"
+        ],
+        "submit": "Send Message",
+        "submitting": "Sending..."
+      },
+      "success": {
+        "title": "Message Sent Successfully!",
+        "message": "Thank you for contacting us. We'll get back to you within 24 hours.",
+        "newMessage": "Send Another Message",
+        "backHome": "Back to Home"
+      }
+    },
+    "form": {
+      "welcome": "Hi! I'm your AI handyman assistant. Let's figure out how I can help you today.",
+      "questions": {
+        "jobType": "What type of handyman work do you need help with?",
+        "description": "Can you describe the specific problem or project in detail?",
+        "urgency": "How urgent is this job?",
+        "budget": "What's your estimated budget for this work?",
+        "images": "Would you like to upload any photos to help me understand the problem better? (Optional)"
+      },
+      "urgencyOptions": {
+        "low": "Not urgent - can wait weeks",
+        "medium": "Moderately urgent - within a few days",
+        "high": "Very urgent - needs immediate attention"
+      },
+      "placeholders": {
+        "jobType": "e.g., plumbing, electrical, carpentry, painting...",
+        "description": "Please provide as much detail as possible...",
+        "budget": "e.g., $50-100, $200-500, or 'flexible'"
+      },
+      "buttons": {
+        "next": "Next",
+        "submit": "Get AI Help",
+        "uploadImage": "Upload Image",
+        "skip": "Skip"
+      },
+      "imageUpload": {
+        "dragDrop": "Drag and drop images here, or click to select",
+        "maxSize": "Max 5MB per image",
+        "formats": "JPG, PNG, WebP supported"
+      },
+      "submitting": "Processing..."
+    },
+    "response": {
+      "title": "AI Handyman Advice",
+      "newRequest": "New Request"
+    },
+    "footer": {
+      "disclaimer": "This AI assistant provides general guidance only. For complex electrical, plumbing, or structural work, always consult licensed professionals."
+    },
+    "imageDisclaimer": "Note: Any images you upload will be shared with our handyman professionals to help them better understand your project.",
+    "noImages": "No Images",
+    "contactInfo": {
+      "name": "What's your name?",
+      "email": "What's your email address?",
+      "phone": "What's your phone number?",
+      "address": "What's your address?",
+      "postalCode": "What's your postal code?",
+      "postalCodePlaceholder": "e.g., 1234AB",
+      "city": "What city do you live in?"
+    },
+    "summary": {
+      "title": "Review Your Request",
+      "subtitle": "Please review your handyman request before sending:",
+      "jobType": "Job Type",
+      "description": "Description",
+      "urgency": "Urgency",
+      "budget": "Budget",
+      "images": "Images",
+      "contactInfo": "Contact Information",
+      "name": "Name",
+      "email": "Email",
+      "phone": "Phone",
+      "address": "Address",
+      "location": "Location",
+      "noImagesUploaded": "No images uploaded",
+      "send": "Send Request",
+      "edit": "Edit Request"
+    },
+    "loading": {
+      "title": "Your request is being processed",
+      "subtitle": "Please wait, we're finding the best handymen for you",
+      "processing": "Processing..."
+    },
+    "success": {
+      "title": "Request Successfully Sent!",
+      "subtitle": "We are now searching for a handyman.",
+      "step1": "✓ Request successfully received",
+      "step2": "🔍 Currently searching for a handyman",
+      "step3": "📱 You will receive a WhatsApp message shortly",
+      "newRequest": "New Request",
+      "disclaimer": "You will receive a WhatsApp message when a handyman accepts your job."
+    },
+    "error": {
+      "notFound": "Sorry, we could not find the right person for the job"
+    },
+    "handymanSignup": {
+      "title": "Join Our Network of Professional Handymen",
+      "subtitle": "Connect with customers in your area and grow your business",
+      "benefits": {
+        "title": "Why Join Klussie?",
+        "items": [
+          {
+            "title": "Steady Stream of Jobs",
+            "description": "Get matched with customers who need your specific skills"
+          },
+          {
+            "title": "No Upfront Costs",
+            "description": "Only pay a small commission when you complete a job"
+          },
+          {
+            "title": "Flexible Schedule",
+            "description": "Choose which jobs to accept based on your availability"
+          },
+          {
+            "title": "Professional Support",
+            "description": "Our team helps resolve any issues quickly"
+          }
+        ]
+      },
+      "howItWorks": {
+        "title": "How It Works",
+        "steps": [
+          {
+            "title": "Receive Job Notifications",
+            "description": "Get WhatsApp messages with job details in your area"
+          },
+          {
+            "title": "Review & Accept",
+            "description": "See the job details and expected price, then click Yes or No"
+          },
+          {
+            "title": "Connect with Customer",
+            "description": "Get customer contact details and schedule the work"
+          },
+          {
+            "title": "Complete & Get Paid",
+            "description": "Finish the job and receive payment through our platform"
+          }
+        ]
+      },
+      "form": {
+        "title": "Professional Registration",
+        "personalInfo": "Personal Information",
+        "businessInfo": "Business Information",
+        "services": "Services You Provide",
+        "fields": {
+          "name": "Full Name",
+          "email": "Email Address",
+          "phone": "Phone Number",
+          "kvk": "KvK Number",
+          "btw": "BTW Number",
+          "profilePhoto": "Profile Photo",
+          "description": "About You/Your Business",
+          "services": "Select the services you provide:"
+        },
+        "placeholders": {
+          "name": "Enter your full name",
+          "email": "your.email@example.com",
+          "phone": "+31 6 12345678",
+          "kvk": "12345678",
+          "btw": "NL123456789B01",
+          "description": "Tell us about your experience, specialties, and what makes you stand out..."
+        },
+        "serviceOptions": [
+          "Plumbing",
+          "Electrical Work",
+          "Carpentry",
+          "Painting & Decorating",
+          "Tiling",
+          "Flooring",
+          "Kitchen Installation",
+          "Bathroom Renovation",
+          "General Repairs",
+          "Furniture Assembly",
+          "TV Mounting",
+          "Shelving Installation",
+          "Door & Window Repair",
+          "Drywall Repair",
+          "Outdoor Work"
+        ],
+        "submit": "Submit Application",
+        "uploadPhoto": "Upload Photo"
+      }
+    },
+    "privacy": {
+      "title": "Privacy Policy",
+      "subtitle": "How we protect and use your personal data",
+      "lastUpdated": "Last updated: December 2024",
+      "backToHome": "Back to Home",
+      "introduction": {
+        "title": "Introduction",
+        "content": "At Klussie, we respect your privacy and are committed to protecting your personal data. This privacy policy explains how we collect, use, and protect your information when you use our services."
+      },
+      "dataCollection": {
+        "title": "What Data We Collect",
+        "personalInfo": {
+          "title": "Personal Information:",
+          "items": [
+            "Name and contact details (email address, phone number)",
+            "Address and postal code",
+            "Communication preferences"
+          ]
+        },
+        "jobInfo": {
+          "title": "Job Information:",
+          "items": [
+            "Description of the job or problem",
+            "Photos you upload (optional)",
+            "Urgency and budget information",
+            "Job location"
+          ]
+        }
+      },
+      "dataUse": {
+        "title": "How We Use Your Data",
+        "primary": {
+          "title": "Primary Purpose:",
+          "content": "Your phone number and email address are ONLY used to contact you about jobs and to follow up after a successful job completion."
+        },
+        "contact": {
+          "title": "Job Contact",
+          "content": "We use your contact details to match you with suitable handymen and coordinate the job."
+        },
+        "followup": {
+          "title": "Post-Job Follow-up",
+          "content": "After job completion, we contact you for feedback and to ensure your satisfaction."
+        }
+      },
+      "dataRetention": {
+        "title": "How Long We Keep Your Data",
+        "automatic": {
+          "title": "Automatic Deletion:",
+          "content": "All personal data is automatically deleted from our systems every 3 months."
+        },
+        "timeline": {
+          "title": "Data Management Timeline:",
+          "items": [
+            {
+              "period": "During Active Job",
+              "description": "Your data is used for communication and coordination"
+            },
+            {
+              "period": "After Job Completion",
+              "description": "Data is retained for follow-up and customer service"
+            },
+            {
+              "period": "After 3 Months",
+              "description": "All personal data is automatically and permanently deleted"
+            }
+          ]
+        }
+      },
+      "yourRights": {
+        "title": "Your Rights",
+        "deletion": {
+          "title": "Right to Deletion:",
+          "content": "You can request deletion of your personal data at any time. We will process your request within 48 hours.",
+          "emailButton": "Request Deletion",
+          "contactButton": "Contact Us"
+        },
+        "list": {
+          "title": "Your other rights include:",
+          "items": [
+            "Right to access your data",
+            "Right to correct inaccurate data",
+            "Right to restrict processing",
+            "Right to data portability",
+            "Right to object to processing",
+            "Right to withdraw consent"
+          ]
+        }
+      },
+      "dataSecurity": {
+        "title": "Data Security",
+        "content": "We take the security of your personal data very seriously and use various technical and organizational measures:",
+        "measures": [
+          "SSL encryption for all data transfer",
+          "Secure servers with restricted access",
+          "Regular security audits",
+          "Data minimization principles",
+          "Access control and authentication",
+          "Regular backups and recovery plans"
+        ]
+      },
+      "contact": {
+        "title": "Contact for Privacy Questions",
+        "content": "If you have questions about this privacy policy or your personal data, please contact us:",
+        "email": {
+          "label": "Email"
+        },
+        "address": {
+          "label": "Postal Address"
+        }
+      },
+      "updates": {
+        "title": "Changes to This Policy",
+        "content": "We may update this privacy policy from time to time. We will notify you of significant changes via email or a notice on our website."
+      }
+    },
+    "terms": {
+      "title": "Terms of Service",
+      "subtitle": "Terms and conditions for using Klussie services",
+      "lastUpdated": "Last updated: December 2024",
+      "backToHome": "Back to Home",
+      "introduction": {
+        "title": "Introduction",
+        "content": "These terms of service govern your use of Klussie's platform and services. Klussie acts as an intermediary platform connecting customers with professional handymen.",
+        "acceptance": "By using our services, you agree to be bound by these terms and conditions."
+      },
+      "service": {
+        "title": "Service Description",
+        "description": "Klussie provides a digital platform that connects customers seeking handyman services with qualified professionals in their area.",
+        "platform": {
+          "title": "Our platform includes:",
+          "items": [
+            "AI-powered matching between customers and handymen",
+            "Communication facilitation",
+            "Payment processing",
+            "Quality assurance and customer support"
+          ]
+        }
+      },
+      "userObligations": {
+        "title": "User Obligations",
+        "noMisuse": {
+          "title": "No System Misuse",
+          "content": "Users are strictly prohibited from misusing our system in any way. This includes but is not limited to:",
+          "examples": [
+            "Providing false or misleading information",
+            "Creating fake accounts or profiles",
+            "Attempting to circumvent our matching system",
+            "Using the platform for illegal activities",
+            "Harassing other users or handymen",
+            "Attempting to damage or disrupt our services"
+          ]
+        },
+        "general": {
+          "title": "General Obligations:",
+          "items": [
+            "Provide accurate and truthful information",
+            "Treat all parties with respect and professionalism",
+            "Pay agreed fees promptly",
+            "Follow safety guidelines and local regulations",
+            "Report any issues or concerns immediately",
+            "Maintain confidentiality of personal information"
+          ]
+        }
+      },
+      "payment": {
+        "title": "Payment Terms",
+        "fixedPrice": {
+          "title": "Fixed Price Agreement",
+          "content": "For each job, a fixed price is agreed upon between the customer and handyman before work begins. This price is binding for both parties.",
+          "important": {
+            "title": "Important:",
+            "content": "Once the handyman arrives at the customer's location, Klussie is entitled to its commission fee, regardless of whether the job is completed successfully or not."
+          }
+        },
+        "process": {
+          "title": "Payment Process:",
+          "steps": [
+            {
+              "title": "Price Agreement",
+              "description": "Fixed price is agreed upon before work begins"
+            },
+            {
+              "title": "Handyman Arrival",
+              "description": "Commission becomes due when handyman arrives on location"
+            },
+            {
+              "title": "Payment Processing",
+              "description": "Customer pays the agreed amount through our platform"
+            },
+            {
+              "title": "Commission Deduction",
+              "description": "Klussie deducts commission and transfers remainder to handyman"
+            }
+          ]
+        },
+        "commission": {
+          "title": "Commission Structure",
+          "content": "Klussie charges a commission fee for each successful connection. This fee is earned when the handyman arrives at the customer's location, regardless of job completion."
+        }
+      },
+      "handymanTerms": {
+        "title": "Terms for Handymen",
+        "requirements": {
+          "title": "Requirements:",
+          "items": [
+            "Valid business registration (KvK number)",
+            "Appropriate insurance coverage",
+            "Professional qualifications and certifications",
+            "Reliable transportation to job locations",
+            "Professional communication skills",
+            "Commitment to quality workmanship"
+          ]
+        },
+        "responsibilities": {
+          "title": "Handyman Responsibilities:",
+          "items": [
+            "Arrive punctually at scheduled appointments",
+            "Provide professional and courteous service",
+            "Complete work according to agreed specifications",
+            "Maintain appropriate insurance and licenses",
+            "Communicate clearly with customers",
+            "Report any issues or concerns immediately"
+          ]
+        }
+      },
+      "liability": {
+        "title": "Liability and Insurance",
+        "platform": "Klussie acts as an intermediary platform and is not responsible for the actual handyman services provided. All work is performed by independent contractors.",
+        "limitations": {
+          "title": "Liability Limitations:",
+          "items": [
+            "Klussie is not liable for work quality or completion",
+            "Customers and handymen interact at their own risk",
+            "Platform availability is not guaranteed",
+            "We are not responsible for damages or injuries during work"
+          ]
+        },
+        "insurance": "All handymen are required to maintain appropriate professional liability and general insurance coverage."
+      },
+      "termination": {
+        "title": "Account Termination",
+        "content": "Klussie reserves the right to terminate or suspend accounts for violations of these terms, including:",
+        "reasons": [
+          "System misuse or abuse",
+          "Fraudulent activity",
+          "Violation of safety guidelines",
+          "Unprofessional conduct",
+          "Non-payment of fees",
+          "Legal violations"
+        ]
+      },
+      "changes": {
+        "title": "Changes to Terms",
+        "content": "Klussie may update these terms from time to time. Users will be notified of significant changes via email or platform notifications."
+      },
+      "contact": {
+        "title": "Contact Information",
+        "content": "For questions about these terms or our services, please contact us:",
+        "email": {
+          "label": "Email"
+        },
+        "address": {
+          "label": "Address"
+        }
+      }
+    }
+  },
+  "nl": {
+    "title": "Klussie - Jouw AI Klusser Assistent",
+    "subtitle": "Krijg directe hulp en advies voor al je reparatie- en onderhoudsbehoeften thuis",
+    "homepage": {
+      "hero": {
+        "title": "Vind Snel een Klusser bij Jou in de Buurt",
+        "subtitle": "Verbind met vertrouwde professionals in jouw omgeving voor al je reparatie- en onderhoudsklussen",
+        "cta": "Vind Mijn Klusser"
+      },
+      "howItWorks": {
+        "title": "Hoe Werkt Het",
+        "subtitle": "Kom in contact met de juiste klusser in slechts een paar eenvoudige stappen",
+        "steps": [
+          {
+            "title": "Beschrijf Je Klus",
+            "description": "Vertel ons over je reparatie- of onderhoudsbehoeften via onze slimme chat interface"
+          },
+          {
+            "title": "Word Gekoppeld",
+            "description": "Onze AI vindt de best gekwalificeerde klussers in jouw omgeving op basis van jouw specifieke wensen"
+          },
+          {
+            "title": "Verbind En Plan",
+            "description": "Neem contact op met jouw gekozen professional en plan de klus in"
+          }
+        ]
+      },
+      "whyUs": {
+        "title": "Waarom Klussie",
+        "subtitle": "Wij maken het vinden van de juiste klusser eenvoudig, snel en betrouwbaar",
+        "features": [
+          {
+            "title": "AI-Gestuurde Matching",
+            "description": "Ons slimme algoritme koppelt je aan de meest geschikte professionals op basis van jouw specifieke behoeften"
+          },
+          {
+            "title": "Geverifieerde Professionals",
+            "description": "Alle klussers zijn grondig gecontroleerd, gelicentieerd en verzekerd voor jouw gemoedsrust"
+          },
+          {
+            "title": "Directe Offertes",
+            "description": "Krijg snel concurrerende offertes zonder de gedoe van meerdere telefoontjes"
+          },
+          {
+            "title": "24/7 Ondersteuning",
+            "description": "Ons klantenservice team is dag en nacht beschikbaar om je te helpen"
+          }
+        ]
+      },
+      "footer": {
+        "company": "Klussie",
+        "description": "Huiseigenaren verbinden met vertrouwde professionals sinds 2024",
+        "links": {
+          "about": "Over Ons",
+          "contact": "Contact",
+          "privacy": "Privacybeleid",
+          "terms": "Algemene Voorwaarden"
+        },
+        "copyright": "© 2024 Klussie. Alle rechten voorbehouden."
+      }
+    },
+    "about": {
+      "title": "Over Klussie",
+      "subtitle": "Wij revolutioneren hoe huiseigenaren verbinden met vertrouwde klussers door de kracht van AI",
+      "backToHome": "Terug naar Home",
+      "mission": {
+        "title": "Onze Missie",
+        "description": "Bij Klussie geloven we dat het vinden van betrouwbare hulp voor je huis eenvoudig, snel en stressvrij moet zijn. Ons AI-aangedreven platform verbindt huiseigenaren met geverifieerde professionals in hun omgeving, waardoor huisonderhoud en reparaties voor iedereen toegankelijk worden.",
+        "stats": {
+          "title": "Onze Impact",
+          "handymen": "Geverifieerde Klussers",
+          "jobsCompleted": "Voltooide Klussen",
+          "satisfaction": "Klanttevredenheid"
+        }
+      },
+      "values": {
+        "title": "Onze Waarden",
+        "subtitle": "De principes die alles wat we doen leiden",
+        "items": [
+          {
+            "title": "Kwaliteit Voorop",
+            "description": "We werken alleen met geverifieerde, vaardige professionals die voldoen aan onze hoge standaarden voor kwaliteit en betrouwbaarheid."
+          },
+          {
+            "title": "Klantgericht",
+            "description": "Elke beslissing die we nemen is gericht op het bieden van de best mogelijke ervaring voor onze klanten."
+          },
+          {
+            "title": "Innovatie",
+            "description": "We verbeteren voortdurend onze AI-matching technologie om snellere, nauwkeurigere verbindingen te bieden."
+          }
+        ]
+      },
+      "story": {
+        "title": "Ons Verhaal",
+        "paragraphs": [
+          "Klussie werd opgericht in 2024 met een eenvoudige observatie: het vinden van betrouwbare hulp voor huisreparaties was onnodig ingewikkeld en tijdrovend. Traditionele methoden vereisten talloze telefoontjes, onbetrouwbare reviews en onzekerheid over prijzen en beschikbaarheid.",
+          "Onze oprichters, ervaren in zowel technologie als thuisdiensten, zagen een kans om kunstmatige intelligentie te gebruiken om dit probleem op te lossen. Door slimme matching-algoritmen te combineren met een netwerk van geverifieerde professionals, creëerden we een platform dat het vinden van de juiste klusser zo eenvoudig maakt als een gesprek voeren.",
+          "Vandaag bedient Klussie duizenden huiseigenaren in heel Nederland, en verbindt hen met vaardige professionals die alles aankunnen van eenvoudige reparaties tot complexe renovaties. Onze AI blijft leren en verbeteren, waardoor betere matches en snellere service bij elke interactie worden gegarandeerd."
+        ]
+      },
+      "team": {
+        "title": "Ontmoet Ons Team",
+        "subtitle": "De gepassioneerde mensen achter Klussie",
+        "members": [
+          {
+            "name": "Sarah Johnson",
+            "role": "CEO & Medeoprichter",
+            "description": "Voormalig directeur in de thuisdienstenindustrie met 15 jaar ervaring in het verbinden van klanten met professionals."
+          },
+          {
+            "name": "Michael Chen",
+            "role": "CTO & Medeoprichter",
+            "description": "AI en machine learning expert die eerder matching-systemen bouwde voor grote techbedrijven."
+          },
+          {
+            "name": "Emma Rodriguez",
+            "role": "Hoofd Operaties",
+            "description": "Operationeel specialist gericht op het waarborgen van kwaliteitsservice en klanttevredenheid."
+          }
+        ]
+      },
+      "cta": {
+        "title": "Klaar om de Toekomst van Thuisdiensten te Ervaren?",
+        "description": "Sluit je aan bij duizenden tevreden klanten die hun perfecte klusser hebben gevonden via Klussie.",
+        "findHandyman": "Vind een Klusser",
+        "becomeHandyman": "Word een Klusser"
+      }
+    },
+    "contact": {
+      "title": "Contact",
+      "subtitle": "We zijn er om te helpen! Neem contact op met ons team.",
+      "backToHome": "Terug naar Home",
+      "info": {
+        "title": "Neem Contact Op",
+        "email": {
+          "title": "Email Ondersteuning",
+          "description": "Stuur ons een email en we reageren binnen 24 uur"
+        },
+        "phone": {
+          "title": "Telefoon Ondersteuning",
+          "description": "Bel ons tijdens kantooruren voor directe hulp"
+        },
+        "whatsapp": {
+          "title": "WhatsApp",
+          "description": "Stuur ons een bericht op WhatsApp voor snelle ondersteuning"
+        },
+        "address": {
+          "title": "Bezoek Ons Kantoor"
+        },
+        "hours": {
+          "title": "Openingstijden",
+          "weekdays": "Maandag - Vrijdag: 9:00 - 18:00",
+          "weekend": "Zaterdag - Zondag: 10:00 - 16:00"
+        }
+      },
+      "form": {
+        "title": "Stuur ons een Bericht",
+        "subtitle": "Vul het onderstaande formulier in en we nemen zo snel mogelijk contact met je op.",
+        "fields": {
+          "name": "Volledige Naam",
+          "email": "E-mailadres",
+          "phone": "Telefoonnummer",
+          "subject": "Onderwerp",
+          "message": "Bericht"
+        },
+        "placeholders": {
+          "name": "Voer je volledige naam in",
+          "email": "jouw.email@voorbeeld.nl",
+          "phone": "+31 6 12345678",
+          "subject": "Selecteer een onderwerp",
+          "message": "Vertel ons hoe we je kunnen helpen..."
+        },
+        "subjects": [
+          "Algemene Vraag",
+          "Technische Ondersteuning",
+          "Factureringsvraag",
+          "Klusser Aanmelding",
+          "Partnerschapsmogelijkheid",
+          "Feedback of Suggestie",
+          "Anders"
+        ],
+        "submit": "Verstuur Bericht",
+        "submitting": "Versturen..."
+      },
+      "success": {
+        "title": "Bericht Succesvol Verstuurd!",
+        "message": "Bedankt voor je bericht. We nemen binnen 24 uur contact met je op.",
+        "newMessage": "Verstuur Nog een Bericht",
+        "backHome": "Terug naar Home"
+      }
+    },
+    "form": {
+      "welcome": "Hallo! Ik ben jouw AI klusser assistent. Laten we uitzoeken hoe ik je vandaag kan helpen.",
+      "questions": {
+        "jobType": "Wat voor soort kluswerk heb je nodig?",
+        "description": "Kun je het specifieke probleem of project in detail beschrijven?",
+        "urgency": "Hoe urgent is deze klus?",
+        "budget": "Wat is je geschatte budget voor dit werk?",
+        "images": "Wil je foto's uploaden om me te helpen het probleem beter te begrijpen? (Optioneel)"
+      },
+      "urgencyOptions": {
+        "low": "Niet urgent - kan weken wachten",
+        "medium": "Matig urgent - binnen een paar dagen",
+        "high": "Zeer urgent - heeft directe aandacht nodig"
+      },
+      "placeholders": {
+        "jobType": "bijv. loodgieter, elektricien, timmerman, schilder...",
+        "description": "Geef zoveel mogelijk details...",
+        "budget": "bijv. €50-100, €200-500, of 'flexibel'"
+      },
+      "buttons": {
+        "next": "Volgende",
+        "submit": "Krijg AI Hulp",
+        "uploadImage": "Upload Afbeelding",
+        "skip": "Overslaan"
+      },
+      "imageUpload": {
+        "dragDrop": "Sleep afbeeldingen hierheen, of klik om te selecteren",
+        "maxSize": "Max 5MB per afbeelding",
+        "formats": "JPG, PNG, WebP ondersteund"
+      },
+      "submitting": "Bezig met verwerken..."
+    },
+    "response": {
+      "title": "AI Klusser Advies",
+      "newRequest": "Nieuwe Aanvraag"
+    },
+    "footer": {
+      "disclaimer": "Deze AI assistent geeft alleen algemene begeleiding. Voor complexe elektrische, loodgieter- of structurele werkzaamheden, raadpleeg altijd gelicentieerde professionals."
+    },
+    "imageDisclaimer": "Let op: Alle afbeeldingen die je uploadt worden gedeeld met onze klusser professionals om hen te helpen jouw project beter te begrijpen.",
+    "noImages": "Geen Afbeeldingen",
+    "contactInfo": {
+      "name": "Wat is je naam?",
+      "email": "Wat is je e-mailadres?",
+      "phone": "Wat is je telefoonnummer?",
+      "address": "Wat is je adres?",
+      "postalCode": "Wat is je postcode?",
+      "postalCodePlaceholder": "bijv. 1234AB",
+      "city": "In welke plaats woon je?"
+    },
+    "summary": {
+      "title": "Controleer Je Aanvraag",
+      "subtitle": "Controleer je klusser aanvraag voordat je deze verstuurt:",
+      "jobType": "Type Klus",
+      "description": "Beschrijving",
+      "urgency": "Urgentie",
+      "budget": "Budget",
+      "images": "Afbeeldingen",
+      "contactInfo": "Contactgegevens",
+      "name": "Naam",
+      "email": "E-mail",
+      "phone": "Telefoon",
+      "address": "Adres",
+      "location": "Locatie",
+      "noImagesUploaded": "Geen afbeeldingen geüpload",
+      "send": "Verstuur Aanvraag",
+      "edit": "Bewerk Aanvraag"
+    },
+    "loading": {
+      "title": "Je aanvraag wordt verwerkt",
+      "subtitle": "Even geduld, we zoeken de beste klussers voor je",
+      "processing": "Verwerken..."
+    },
+    "success": {
+      "title": "Aanvraag is Gelukt!",
+      "subtitle": "Wij zoeken nu een klusser.",
+      "step1": "✓ Aanvraag succesvol ontvangen",
+      "step2": "🔍 Momenteel op zoek naar een klusser",
+      "step3": "📱 U ontvangt binnenkort een WhatsApp bericht",
+      "newRequest": "Nieuwe Aanvraag",
+      "disclaimer": "U ontvangt een WhatsApp bericht wanneer een klusser uw klus accepteert."
+    },
+    "error": {
+      "notFound": "Sorry, we konden niet de juiste persoon voor de klus vinden"
+    },
+    "handymanSignup": {
+      "title": "Word Onderdeel van Ons Netwerk van Professionele Klussers",
+      "subtitle": "Verbind met klanten in jouw omgeving en laat je bedrijf groeien",
+      "benefits": {
+        "title": "Waarom Lid Worden van Klussie?",
+        "items": [
+          {
+            "title": "Constante Stroom van Klussen",
+            "description": "Word gekoppeld aan klanten die jouw specifieke vaardigheden nodig hebben"
+          },
+          {
+            "title": "Geen Voorkosten",
+            "description": "Betaal alleen een kleine commissie wanneer je een klus voltooit"
+          },
+          {
+            "title": "Flexibele Planning",
+            "description": "Kies welke klussen je accepteert op basis van jouw beschikbaarheid"
+          },
+          {
+            "title": "Professionele Ondersteuning",
+            "description": "Ons team helpt problemen snel op te lossen"
+          }
+        ]
+      },
+      "howItWorks": {
+        "title": "Hoe Het Werkt",
+        "steps": [
+          {
+            "title": "Ontvang Klus Notificaties",
+            "description": "Krijg WhatsApp berichten met klus details in jouw omgeving"
+          },
+          {
+            "title": "Bekijk & Accepteer",
+            "description": "Zie de klus details en verwachte prijs, klik dan Ja of Nee"
+          },
+          {
+            "title": "Verbind met Klant",
+            "description": "Krijg klant contactgegevens en plan het werk in"
+          },
+          {
+            "title": "Voltooi & Krijg Betaald",
+            "description": "Rond de klus af en ontvang betaling via ons platform"
+          }
+        ]
+      },
+      "form": {
+        "title": "Professionele Registratie",
+        "personalInfo": "Persoonlijke Informatie",
+        "businessInfo": "Bedrijfsinformatie",
+        "services": "Diensten Die Je Aanbiedt",
+        "fields": {
+          "name": "Volledige Naam",
+          "email": "E-mailadres",
+          "phone": "Telefoonnummer",
+          "kvk": "KvK Nummer",
+          "btw": "BTW Nummer",
+          "profilePhoto": "Profielfoto",
+          "description": "Over Jou/Je Bedrijf",
+          "services": "Selecteer de diensten die je aanbiedt:"
+        },
+        "placeholders": {
+          "name": "Voer je volledige naam in",
+          "email": "jouw.email@voorbeeld.nl",
+          "phone": "+31 6 12345678",
+          "kvk": "12345678",
+          "btw": "NL123456789B01",
+          "description": "Vertel ons over je ervaring, specialiteiten en wat jou onderscheidt..."
+        },
+        "serviceOptions": [
+          "Loodgieterswerk",
+          "Elektriciteitswerk",
+          "Timmerwerk",
+          "Schilderen & Decoreren",
+          "Tegelwerk",
+          "Vloeren",
+          "Keuken Installatie",
+          "Badkamer Renovatie",
+          "Algemene Reparaties",
+          "Meubel Montage",
+          "TV Ophangen",
+          "Planken Installatie",
+          "Deur & Raam Reparatie",
+          "Gipsplaat Reparatie",
+          "Buitenwerk"
+        ],
+        "submit": "Verstuur Aanmelding",
+        "uploadPhoto": "Upload Foto"
+      }
+    },
+    "privacy": {
+      "title": "Privacybeleid",
+      "subtitle": "Hoe wij uw persoonlijke gegevens beschermen en gebruiken",
+      "lastUpdated": "Laatst bijgewerkt: December 2024",
+      "backToHome": "Terug naar Home",
+      "introduction": {
+        "title": "Introductie",
+        "content": "Bij Klussie respecteren wij uw privacy en zijn wij toegewijd aan het beschermen van uw persoonlijke gegevens. Dit privacybeleid legt uit hoe wij uw informatie verzamelen, gebruiken en beschermen wanneer u onze diensten gebruikt."
+      },
+      "dataCollection": {
+        "title": "Welke Gegevens Verzamelen Wij",
+        "personalInfo": {
+          "title": "Persoonlijke Informatie:",
+          "items": [
+            "Naam en contactgegevens (e-mailadres, telefoonnummer)",
+            "Adres en postcode",
+            "Communicatievoorkeuren"
+          ]
+        },
+        "jobInfo": {
+          "title": "Klus Informatie:",
+          "items": [
+            "Beschrijving van de klus of het probleem",
+            "Foto's die u uploadt (optioneel)",
+            "Urgentie en budget informatie",
+            "Locatie van de klus"
+          ]
+        }
+      },
+      "dataUse": {
+        "title": "Hoe Wij Uw Gegevens Gebruiken",
+        "primary": {
+          "title": "Hoofddoel:",
+          "content": "Uw telefoonnummer en e-mailadres worden ALLEEN gebruikt om contact met u op te nemen voor klussen en om contact op te nemen na een succesvolle klus."
+        },
+        "contact": {
+          "title": "Contact voor Klussen",
+          "content": "Wij gebruiken uw contactgegevens om u te koppelen aan geschikte klussers en om de klus te coördineren."
+        },
+        "followup": {
+          "title": "Follow-up na Klus",
+          "content": "Na voltooiing van een klus nemen wij contact op voor feedback en om ervoor te zorgen dat u tevreden bent."
+        }
+      },
+      "dataRetention": {
+        "title": "Hoe Lang Bewaren Wij Uw Gegevens",
+        "automatic": {
+          "title": "Automatische Verwijdering:",
+          "content": "Alle persoonlijke gegevens worden automatisch om de 3 maanden verwijderd uit onze systemen."
+        },
+        "timeline": {
+          "title": "Tijdlijn van Gegevensbeheer:",
+          "items": [
+            {
+              "period": "Tijdens Actieve Klus",
+              "description": "Uw gegevens worden gebruikt voor communicatie en coördinatie"
+            },
+            {
+              "period": "Na Voltooiing Klus",
+              "description": "Gegevens worden bewaard voor follow-up en klantenservice"
+            },
+            {
+              "period": "Na 3 Maanden",
+              "description": "Alle persoonlijke gegevens worden automatisch en permanent verwijderd"
+            }
+          ]
+        }
+      },
+      "yourRights": {
+        "title": "Uw Rechten",
+        "deletion": {
+          "title": "Recht op Verwijdering:",
+          "content": "U kunt op elk moment vragen om uw persoonlijke gegevens te laten verwijderen. Wij zullen uw verzoek binnen 48 uur verwerken.",
+          "emailButton": "Verwijdering Aanvragen",
+          "contactButton": "Contact Opnemen"
+        },
+        "list": {
+          "title": "Uw andere rechten omvatten:",
+          "items": [
+            "Recht op toegang tot uw gegevens",
+            "Recht op correctie van onjuiste gegevens",
+            "Recht op beperking van verwerking",
+            "Recht op gegevensoverdracht",
+            "Recht om bezwaar te maken tegen verwerking",
+            "Recht om toestemming in te trekken"
+          ]
+        }
+      },
+      "dataSecurity": {
+        "title": "Gegevensbeveiliging",
+        "content": "Wij nemen de beveiliging van uw persoonlijke gegevens zeer serieus en gebruiken verschillende technische en organisatorische maatregelen:",
+        "measures": [
+          "SSL-versleuteling voor alle gegevensoverdracht",
+          "Beveiligde servers met beperkte toegang",
+          "Regelmatige beveiligingsaudits",
+          "Gegevensminimalisatie principes",
+          "Toegangscontrole en authenticatie",
+          "Regelmatige back-ups en herstelplannen"
+        ]
+      },
+      "contact": {
+        "title": "Contact voor Privacy Vragen",
+        "content": "Als u vragen heeft over dit privacybeleid of uw persoonlijke gegevens, neem dan contact met ons op:",
+        "email": {
+          "label": "E-mail"
+        },
+        "address": {
+          "label": "Postadres"
+        }
+      },
+      "updates": {
+        "title": "Wijzigingen in dit Beleid",
+        "content": "Wij kunnen dit privacybeleid van tijd tot tijd bijwerken. Belangrijke wijzigingen zullen we u meedelen via e-mail of een kennisgeving op onze website."
+      }
+    },
+    "terms": {
+      "title": "Algemene Voorwaarden",
+      "subtitle": "Voorwaarden voor het gebruik van Klussie diensten",
+      "lastUpdated": "Laatst bijgewerkt: December 2024",
+      "backToHome": "Terug naar Home",
+      "introduction": {
+        "title": "Introductie",
+        "content": "Deze algemene voorwaarden regelen uw gebruik van Klussie's platform en diensten. Klussie fungeert als een bemiddelingsplatform dat klanten verbindt met professionele klussers.",
+        "acceptance": "Door gebruik te maken van onze diensten, gaat u akkoord met deze algemene voorwaarden."
+      },
+      "service": {
+        "title": "Dienst Beschrijving",
+        "description": "Klussie biedt een digitaal platform dat klanten die klusser diensten zoeken verbindt met gekwalificeerde professionals in hun omgeving.",
+        "platform": {
+          "title": "Ons platform omvat:",
+          "items": [
+            "AI-gestuurde matching tussen klanten en klussers",
+            "Communicatie facilitering",
+            "Betalingsverwerking",
+            "Kwaliteitsborging en klantenondersteuning"
+          ]
+        }
+      },
+      "userObligations": {
+        "title": "Gebruikersverplichtingen",
+        "noMisuse": {
+          "title": "Geen Systeemmisbruik",
+          "content": "Gebruikers mogen ons systeem op geen enkele wijze misbruiken. Dit omvat onder andere:",
+          "examples": [
+            "Het verstrekken van valse of misleidende informatie",
+            "Het aanmaken van nepaccounts of profielen",
+            "Pogingen om ons matchingsysteem te omzeilen",
+            "Het platform gebruiken voor illegale activiteiten",
+            "Het lastigvallen van andere gebruikers of klussers",
+            "Pogingen om onze diensten te beschadigen of verstoren"
+          ]
+        },
+        "general": {
+          "title": "Algemene Verplichtingen:",
+          "items": [
+            "Nauwkeurige en waarheidsgetrouwe informatie verstrekken",
+            "Alle partijen met respect en professionaliteit behandelen",
+            "Overeengekomen kosten prompt betalen",
+            "Veiligheidsrichtlijnen en lokale regelgeving volgen",
+            "Problemen of zorgen onmiddellijk melden",
+            "Vertrouwelijkheid van persoonlijke informatie bewaren"
+          ]
+        }
+      },
+      "payment": {
+        "title": "Betalingsvoorwaarden",
+        "fixedPrice": {
+          "title": "Vaste Prijs Overeenkomst",
+          "content": "Voor elke klus wordt een vaste prijs afgesproken tussen de klant en klusser voordat het werk begint. Deze prijs is bindend voor beide partijen.",
+          "important": {
+            "title": "Belangrijk:",
+            "content": "Zodra de klusser op de locatie van de klant aankomt, heeft Klussie recht op zijn commissie, ongeacht of de klus succesvol wordt voltooid of niet."
+          }
+        },
+        "process": {
+          "title": "Betalingsproces:",
+          "steps": [
+            {
+              "title": "Prijs Overeenkomst",
+              "description": "Vaste prijs wordt afgesproken voordat het werk begint"
+            },
+            {
+              "title": "Klusser Aankomst",
+              "description": "Commissie wordt verschuldigd wanneer klusser op locatie aankomt"
+            },
+            {
+              "title": "Betalingsverwerking",
+              "description": "Klant betaalt het afgesproken bedrag via ons platform"
+            },
+            {
+              "title": "Commissie Aftrek",
+              "description": "Klussie trekt commissie af en maakt restant over naar klusser"
+            }
+          ]
+        },
+        "commission": {
+          "title": "Commissie Structuur",
+          "content": "Klussie rekent een commissie voor elke succesvolle verbinding. Deze vergoeding wordt verdiend wanneer de klusser op de locatie van de klant aankomt, ongeacht of de klus wordt voltooid."
+        }
+      },
+      "handymanTerms": {
+        "title": "Voorwaarden voor Klussers",
+        "requirements": {
+          "title": "Vereisten:",
+          "items": [
+            "Geldige bedrijfsregistratie (KvK nummer)",
+            "Passende verzekeringsdekking",
+            "Professionele kwalificaties en certificeringen",
+            "Betrouwbaar vervoer naar klus locaties",
+            "Professionele communicatievaardigheden",
+            "Toewijding aan kwaliteit vakmanschap"
+          ]
+        },
+        "responsibilities": {
+          "title": "Klusser Verantwoordelijkheden:",
+          "items": [
+            "Stipt aankomen bij geplande afspraken",
+            "Professionele en hoffelijke service bieden",
+            "Werk voltooien volgens afgesproken specificaties",
+            "Passende verzekering en licenties onderhouden",
+            "Duidelijk communiceren met klanten",
+            "Problemen of zorgen onmiddellijk melden"
+          ]
+        }
+      },
+      "liability": {
+        "title": "Aansprakelijkheid en Verzekering",
+        "platform": "Klussie fungeert als een bemiddelingsplatform en is niet verantwoordelijk voor de daadwerkelijk geleverde klusser diensten. Alle werk wordt uitgevoerd door onafhankelijke contractanten.",
+        "limitations": {
+          "title": "Aansprakelijkheidsbeperkingen:",
+          "items": [
+            "Klussie is niet aansprakelijk voor werkkwaliteit of voltooiing",
+            "Klanten en klussers interacteren op eigen risico",
+            "Platform beschikbaarheid is niet gegarandeerd",
+            "Wij zijn niet verantwoordelijk voor schade of verwondingen tijdens werk"
+          ]
+        },
+        "insurance": "Alle klussers zijn verplicht om passende professionele aansprakelijkheids- en algemene verzekeringsdekking te onderhouden."
+      },
+      "termination": {
+        "title": "Account Beëindiging",
+        "content": "Klussie behoudt zich het recht voor om accounts te beëindigen of op te schorten wegens schendingen van deze voorwaarden, waaronder:",
+        "reasons": [
+          "Systeemmisbruik of -mishandeling",
+          "Frauduleuze activiteit",
+          "Schending van veiligheidsrichtlijnen",
+          "Onprofessioneel gedrag",
+          "Niet-betaling van kosten",
+          "Juridische schendingen"
+        ]
+      },
+      "changes": {
+        "title": "Wijzigingen in Voorwaarden",
+        "content": "Klussie kan deze voorwaarden van tijd tot tijd bijwerken. Gebruikers worden op de hoogte gesteld van belangrijke wijzigingen via e-mail of platform notificaties."
+      },
+      "contact": {
+        "title": "Contactinformatie",
+        "content": "Voor vragen over deze voorwaarden of onze diensten, neem contact met ons op:",
+        "email": {
+          "label": "E-mail"
+        },
+        "address": {
+          "label": "Adres"
+        }
+      }
+    }
+  }
+}
