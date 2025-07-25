@@ -1,10 +1,62 @@
 "use client"
 
+import { useEffect, useState } from "react"
+import { motion, AnimatePresence } from "framer-motion"
 import { Button } from "@/components/ui/button"
 import { Card, CardContent } from "@/components/ui/card"
 import { useLanguage } from "@/contexts/language-context"
 import { CheckCircle, Users, Clock, Shield } from "lucide-react"
 import Link from "next/link"
+
+// Inline dynamic title component
+function HeroTitle({ title, title2 }: { title: string; title2: string }) {
+  const [displayedText, setDisplayedText] = useState("")
+  const [showSecondTitle, setShowSecondTitle] = useState(false)
+
+  useEffect(() => {
+    let i = 0
+    const interval = setInterval(() => {
+      if (i < title.length) {
+        setDisplayedText(title.slice(0, i + 1))
+        i++
+      } else {
+        clearInterval(interval)
+        setTimeout(() => setShowSecondTitle(true), 1500) // delay before fading
+      }
+    }, 60) // typing speed (60ms per letter)
+
+    return () => clearInterval(interval)
+  }, [title])
+
+  return (
+    <div className="h-[80px] md:h-[100px] relative flex justify-center items-center mb-6">
+      <AnimatePresence mode="wait">
+        {!showSecondTitle ? (
+          <motion.h1
+            key="title1"
+            className="text-5xl md:text-6xl font-bold text-gray-900 absolute"
+            initial={{ opacity: 0 }}
+            animate={{ opacity: 1 }}
+            exit={{ opacity: 0 }}
+          >
+            {displayedText}
+            <span className="animate-pulse">|</span>
+          </motion.h1>
+        ) : (
+          <motion.h1
+            key="title2"
+            className="text-5xl md:text-6xl font-bold text-gray-900 absolute"
+            initial={{ opacity: 0 }}
+            animate={{ opacity: 1 }}
+            transition={{ duration: 1 }}
+          >
+            {title2}
+          </motion.h1>
+        )}
+      </AnimatePresence>
+    </div>
+  )
+}
 
 export function Homepage() {
   const { t } = useLanguage()
@@ -14,10 +66,12 @@ export function Homepage() {
       {/* Hero Section */}
       <section className="px-4 py-16">
         <div className="max-w-6xl mx-auto text-center">
-          <h1 className="text-5xl md:text-6xl font-bold text-gray-900 mb-6">{t.homepage.hero.title}</h1>
-          <p className="text-xl text-gray-600 mb-8 max-w-3xl mx-auto">{t.homepage.hero.subtitle}</p>
+          <HeroTitle title={t.homepage.hero.title} title2={t.homepage.hero.title2} />
+          <p className="text-xl text-gray-600 mb-8 max-w-3xl mx-auto">
+            {t.homepage.hero.subtitle}
+          </p>
           <Link href="/gpt">
-            <Button className="bg-blue-500 hover:bg-blue-600 text-white px-8 py-4 text-lg rounded-2xl">
+            <Button className="bg-blue-500 hover:bg-blue-600 text-white px-12 py-6 text-lg rounded-2xl">
               {t.homepage.hero.cta}
             </Button>
           </Link>
