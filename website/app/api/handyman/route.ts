@@ -58,8 +58,14 @@ export async function POST(request: NextRequest) {
       )
     }
 
-    const webhookUrl = "HANDYMAN_URL"
 
+    const webhookUrl = process.env.HANDYMAN_URL
+    if (!webhookUrl) {
+      return NextResponse.json(
+        { error: "HANDYMAN_URL is not configured" },
+        { status: 500 }
+      )
+    }
     const n8nResponse = await fetch(webhookUrl, {
       method: "POST",
       headers: {

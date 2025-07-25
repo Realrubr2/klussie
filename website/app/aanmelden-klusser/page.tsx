@@ -219,7 +219,7 @@ export default function HandymanSignupPage() {
                 <p className="text-sm text-gray-600 mb-2">
                   📍 Amsterdam Noord
                   <br />🏠 Lekkende kraan repareren
-                  <br />💰 Verwachte prijs: €100-150
+                  <br />💰 Verwachte prijs: €150-200
                   <br />⏰ Binnen 2 dagen
                 </p>
                 <div className="flex gap-2 mt-3">

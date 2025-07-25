@@ -208,7 +208,7 @@
       "placeholders": {
         "jobType": "e.g., plumbing, electrical, carpentry, painting...",
         "description": "Please provide as much detail as possible...",
-        "budget": "e.g., $50-100, $200-500, or 'flexible'"
+        "budget": "e.g., $150-200, $200-500, or 'flexible'"
       },
       "buttons": {
         "next": "Next",
@@ -841,7 +841,7 @@
       "placeholders": {
         "jobType": "bijv. loodgieter, elektricien, timmerman, schilder...",
         "description": "Geef zoveel mogelijk details...",
-        "budget": "bijv. €50-100, €200-500, of 'flexibel'"
+        "budget": "bijv. €150-200, €200-500, of 'flexibel'"
       },
       "buttons": {
         "next": "Volgende",

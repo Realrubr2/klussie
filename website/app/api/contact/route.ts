@@ -34,9 +34,16 @@ export async function POST(request: NextRequest) {
         { status: 400 }
       )
     }
+     const webhookUrl = process.env.CONTACT_URL
+    if (!webhookUrl) {
+      return NextResponse.json(
+        { error: "CONTACT_URL is not configured" },
+        { status: 500 }
+      )
+    }
 
     // Send to n8n webhook endpoint
-    const n8nResponse = await fetch("CONTACT_URL", {
+    const n8nResponse = await fetch(webhookUrl, {
       method: "POST",
       headers: {
         "Content-Type": "application/json",

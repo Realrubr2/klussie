@@ -40,8 +40,16 @@ export async function POST(request: NextRequest) {
       )
     }
 
+     const webhookUrl = process.env.GPT_URL
+    if (!webhookUrl) {
+      return NextResponse.json(
+        { error: "GPT_URL is not configured" },
+        { status: 500 }
+      )
+    }
+
     // Send to n8n webhook endpoint (GPT test endpoint)
-    const n8nResponse = await fetch("GPT_URL", {
+    const n8nResponse = await fetch(webhookUrl, {
       method: "POST",
       headers: {
         "Content-Type": "application/json",
